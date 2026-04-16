@@ -56,8 +56,8 @@ export default function App() {
       <footer className="text-white text-center p-3" style={{ backgroundColor: "#395C6B" }}>
         <p>Follow us</p>
 
-        <a href="#" className="text-white me-3">Facebook</a>
-        <a href="#" className="text-white me-3">Instagram</a>
+        <a href="https://facebook.com" className="text-white me-3" target="_blank">Facebook</a>
+        <a href="https://instagram.com" className="text-white me-3" target="_blank">Instagram</a>
 
         <div className="mt-2">
           <a href="tel:+911234567890" className="text-white d-block">
